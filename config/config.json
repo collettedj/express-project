@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "david",
+    "password": "1234",
+    "database": "hart",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "david",
+    "password": "1234",
+    "database": "hart_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "david",
+    "password": "1234",
+    "database": "hart_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
